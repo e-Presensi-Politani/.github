@@ -23,17 +23,8 @@ Aplikasi absensi berbasis web untuk lingkungan kampus **Politeknik Pertanian Neg
 - [NestJS](https://nestjs.com/)
 - [TypeORM](https://typeorm.io/)
 - [MySQL](https://www.mysql.com/)
-- [@nestjs/config](https://docs.nestjs.com/techniques/configuration) untuk manajemen `.env`
 
 ### Frontend (rencana):
 - React + Bootstrap
 
 ---
-
-## 🧪 Cara Menjalankan (Development)
-
-### 1. Clone Repo
-
-```bash
-git clone https://github.com/username/e-presensi.git
-cd e-presensi
